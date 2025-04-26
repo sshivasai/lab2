@@ -1,0 +1,22 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "The JavaScript template",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.2.0"
+  },
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "jest": "^29.5.0",
+    "node-fetch": "^3.2.6"
+  },
+  "keywords": [
+    "css",
+    "javascript"
+  ]
+}
